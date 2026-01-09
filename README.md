@@ -4,7 +4,7 @@ Thanks for using **UgotMe**.
 
 If you need help, have questions, or want to report an issue, please contact us:
 
-📧 **Email:** support@ugotme.app
+📧 **Email:** support@ugotme.com
 
 ## What we can help with
 - Login or account issues  
